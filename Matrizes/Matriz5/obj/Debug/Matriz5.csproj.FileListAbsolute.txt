@@ -1,0 +1,14 @@
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\bin\Debug\Matriz5.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\bin\Debug\Matriz5.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\bin\Debug\Matriz5.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\obj\Debug\Matriz5.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\obj\Debug\Matriz5.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\obj\Debug\Matriz5.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz5\obj\Debug\Matriz5.pdb
+C:\Users\diogo\Github\Matrizes\Matriz5\bin\Debug\Matriz5.exe.config
+C:\Users\diogo\Github\Matrizes\Matriz5\bin\Debug\Matriz5.exe
+C:\Users\diogo\Github\Matrizes\Matriz5\bin\Debug\Matriz5.pdb
+C:\Users\diogo\Github\Matrizes\Matriz5\obj\Debug\Matriz5.csproj.AssemblyReference.cache
+C:\Users\diogo\Github\Matrizes\Matriz5\obj\Debug\Matriz5.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Github\Matrizes\Matriz5\obj\Debug\Matriz5.exe
+C:\Users\diogo\Github\Matrizes\Matriz5\obj\Debug\Matriz5.pdb

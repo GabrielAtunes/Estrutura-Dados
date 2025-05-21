@@ -1,0 +1,7 @@
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\bin\Debug\Matriz1.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\bin\Debug\Matriz1.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\bin\Debug\Matriz1.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\obj\Debug\Matriz1.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz1\obj\Debug\Matriz1.pdb

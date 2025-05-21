@@ -1,0 +1,7 @@
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\obj\Debug\Vetor7.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\obj\Debug\Vetor7.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\bin\Debug\Vetor7.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\bin\Debug\Vetor7.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\bin\Debug\Vetor7.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\obj\Debug\Vetor7.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor7\obj\Debug\Vetor7.pdb

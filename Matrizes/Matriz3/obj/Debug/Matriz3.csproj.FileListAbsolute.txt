@@ -1,0 +1,14 @@
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\obj\Debug\Matriz3.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\obj\Debug\Matriz3.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\bin\Debug\Matriz3.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\bin\Debug\Matriz3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\bin\Debug\Matriz3.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\obj\Debug\Matriz3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matriz1\Matriz3\obj\Debug\Matriz3.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\bin\Debug\Matriz3.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\bin\Debug\Matriz3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\bin\Debug\Matriz3.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\obj\Debug\Matriz3.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\obj\Debug\Matriz3.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\obj\Debug\Matriz3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Matrizes\Matriz3\obj\Debug\Matriz3.pdb

@@ -1,0 +1,14 @@
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\bin\Debug\Vetor3.exe.config
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\bin\Debug\Vetor3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\bin\Debug\Vetor3.pdb
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\obj\Debug\Vetor3.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\obj\Debug\Vetor3.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\obj\Debug\Vetor3.exe
+C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor3\obj\Debug\Vetor3.pdb
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\bin\Debug\Vetor3.exe.config
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\bin\Debug\Vetor3.exe
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\bin\Debug\Vetor3.pdb
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\obj\Debug\Vetor3.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\obj\Debug\Vetor3.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\obj\Debug\Vetor3.exe
+C:\Users\diogo\OneDrive\Documentos\Documentos Engenharia de Software\03 - Estrutura de Dados\Aula1 - Vetores\Vetor3\obj\Debug\Vetor3.pdb
