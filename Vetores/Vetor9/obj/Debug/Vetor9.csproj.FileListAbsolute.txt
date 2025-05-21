@@ -1,7 +1,0 @@
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\bin\Debug\Vetor9.exe.config
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\bin\Debug\Vetor9.exe
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\bin\Debug\Vetor9.pdb
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\obj\Debug\Vetor9.csproj.AssemblyReference.cache
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\obj\Debug\Vetor9.csproj.CoreCompileInputs.cache
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\obj\Debug\Vetor9.exe
-C:\Users\diogo\OneDrive\Documentos\Estrutura de Dados\Aula1\Vetor1\Vetor9\obj\Debug\Vetor9.pdb
