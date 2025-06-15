@@ -1,0 +1,15 @@
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.AssemblyInfoInputs.cache
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.AssemblyInfo.cs
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.csproj.CoreCompileInputs.cache
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.sourcelink.json
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\bin\Debug\net9.0\MENU.exe
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\bin\Debug\net9.0\MENU.deps.json
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\bin\Debug\net9.0\MENU.runtimeconfig.json
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\bin\Debug\net9.0\MENU.dll
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\bin\Debug\net9.0\MENU.pdb
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.dll
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\refint\MENU.dll
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.pdb
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\MENU.genruntimeconfig.cache
+C:\Users\ericf\Desktop\aulas_terça\API_MENU\MENU\obj\Debug\net9.0\ref\MENU.dll
